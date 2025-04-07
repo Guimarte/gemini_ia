@@ -29,7 +29,7 @@ gemini_ia/ ├── android/ ├── ios/ ├── lib/ │ ├── featur
 
     flutter run --dart-define=GEMINI_KEY=SUA_CHAVE_AQUI
     
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 ✅ Interação com a IA Gemini
 
